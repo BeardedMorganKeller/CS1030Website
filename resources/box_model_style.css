@@ -1,0 +1,75 @@
+/* 
+  #CC5500
+
+*/
+body {
+  padding: 20px; 
+  background-color: #FFFFFF;
+}
+
+h1, h2, h3, h4, h4 {
+  color: #CC5500;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  color: #800080;
+}
+
+p.test { 
+  background-color: #800080;
+  color: #FFFFFF;
+  width: auto;
+  font-size: 30px;
+  margin: 50px;
+  border: dotted #CC5500 3px;
+}
+
+ol {
+  font-weight: bold;
+  color: #800080;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: auto;
+  color: #800080;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid black;
+  color: #800080;
+}
+
+img {
+  border: 2px solid black;
+  margin-top: 20px;
+  max-width: 100%;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+div {
+  background-color: #800080;
+  color: #FFFFFF;
+  width: 646px;
+  font-size: 30px;
+  margin: 100px;
+  padding: 100px;
+  border: ridge #CC5500 20px;
+}
